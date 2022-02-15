@@ -1,2 +1,2 @@
 # git-bootcamp
-Git Bootcamp Repo
+Here is my first GitHub repository in the git bootcamp. Let's get started...
